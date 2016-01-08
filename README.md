@@ -7,7 +7,7 @@ Square Root
 The principal [square root][square-root] is defined as
 
 <div class="equation" align="center" data-raw-text="\sqrt{x^2} = \begin{matrix} x, &amp; \textrm{if}\ x \geq 0\end{matrix}" data-equation="eq:principal_square_root">
-	<img src="" alt="Principal square root definition.">
+	<img src="https://cdn.rawgit.com/math-io/sqrt/8e7861b1a304c4589279000f58c7f044c9dfedde/docs/img/eqn.svg" alt="Principal square root definition.">
 	<br>
 </div>
 
