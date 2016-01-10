@@ -1,6 +1,6 @@
 {
   "name": "math-sqrt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Computes the principal square root.",
   "author": {
     "name": "Athan Reines",
