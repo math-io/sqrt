@@ -51,7 +51,7 @@ var val = sqrt( -4 );
 ## Examples
 
 ``` javascript
-var sqrt = require( './../lib' );
+var sqrt = require( 'math-sqrt' );
 
 var x;
 var i;
