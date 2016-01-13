@@ -20,7 +20,7 @@ test( 'the function computes the principal square root of a nonnegative number',
 	t.end();
 });
 
-test( 'the function returns `NaN` if provide a negative number', function test( t ) {
+test( 'the function returns `NaN` if provided a negative number', function test( t ) {
 	var val = sqrt( -4 );
 	t.ok( val !== val, 'returns NaN' );
 	t.end();
